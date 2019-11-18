@@ -9,11 +9,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 Create a web application that will allow individuals/companys/groups to order a ice cream social, snow cone social or caramel apple social.  This application will allow the user to create a user account to order.  The user will be able to select ice cream flavors & toppings for an ice cream social and then select if they would like it to be attended by servers or just dropped off.  The user will be able to select flavors for snow cone socials and if it will be attended by servers or just dropped off.  The caramel apple social will allow them to choose hot caramel, hot chocolate and toppings and if the social will be attended by servers or just dropped off.  
 ### Features
-Create a usersubmission
+Create a distinctive user 
 Create an order for ice cream social/snow cone social/caramel apple social
 Drop down menus for ice cream choices, snow cone choices, caramel apple choices
 Drop down menu for toppings
 Button for delivery/full service
+Create a form for location/contact details
 ### Technologies
 Java
 HTML
