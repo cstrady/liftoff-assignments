@@ -12,6 +12,10 @@ For this assignment, you'll create some initial plans for your project.
 
 [img1]: https://github.com/cstrady/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/home.jpg?raw=true
 
+![alt text][img2]
+
+[img2]: 
+
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
